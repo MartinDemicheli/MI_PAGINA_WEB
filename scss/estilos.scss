@@ -1,7 +1,15 @@
+//Variables
+$background: green;
+$relleno: 20px;
+
+$ancho: 720px;
+$rosa: #f10086;
+$color: red;
 
 
 body{
     text-align: center;
+    width: $ancho * 3;
 }
 
 .grid-container{
